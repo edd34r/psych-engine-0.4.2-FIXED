@@ -903,7 +903,7 @@ class PlayState extends MusicBeatState
 		}
 
 		daninnocentTxt = new FlxText(876, 648, 348);
-        daninnocentTxt.text = "PORTED BY DANINNOCENT";
+        daninnocentTxt.text = "0.4.2";
         daninnocentTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
         daninnocentTxt.scrollFactor.set();
         add(daninnocentTxt);
