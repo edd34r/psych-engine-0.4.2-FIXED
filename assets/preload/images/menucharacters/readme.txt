@@ -1,1 +1,1 @@
-Drop your Menu characters shit here
+Add your stage .json and .lua files here!
